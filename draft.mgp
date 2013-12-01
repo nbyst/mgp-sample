@@ -1,0 +1,11 @@
+%page
+%size 5, back "black"
+
+%center, fore "white"
+Hello, World
+I will describe how to use Magic Point.
+%left, fore "red"
+パーセント記号につづけて「left, fore "red"」とうちました
+%left, fore "blue"
+こんどは
+パーセント記号につづけて「left, fore "blue"」とうちました
